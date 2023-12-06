@@ -1,6 +1,6 @@
-# Rocket Launch
+# Form Wizard
 
 ###### Purpose:
-    Simple rocket launch app in js
+    Simple form in js
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/rocket/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Form-wizard/).
